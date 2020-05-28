@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+.border {
+    border: 2px grey;
+}
+.schrift_arial {
+    font-family: arial;
+    font-weight: bold;
+}
+.schrift_arial2 {
+    font-family: arial;
+}
+#absatz1 {
+    border-radius: 5px;
+    }
+#absatz2 {
+    color: red;
+    }
